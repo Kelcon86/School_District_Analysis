@@ -8,7 +8,8 @@ I was given the task of helping the PyCity School District with an analysis of t
 ## Results
 The initial analysis was performed in the PyCitySchools.ipynb file using Jupyter Notebook.
 
-1. **How is the district summary affected?**
+**1. How is the district summary affected?**
+
 There was a very slight decrease in district averages.
   - Average Math Score: Dropped from 79.0 to 78.9
   - Average Reading Score: Stayed consistent at 81.9
@@ -18,7 +19,8 @@ There was a very slight decrease in district averages.
 
 ![DistrictSummary](https://user-images.githubusercontent.com/60076980/150691135-370a8fee-08a6-4736-a8f6-d6bf4b15954b.png)
 
-2. **How is the school summary affected?**
+**2. How is the school summary affected?**
+
 There was a drastic decrease in the percent of Thomas High School students passing math and reading.
   - % Passing Math: Dropped from 93.27 to 66.91
   - % Passing Reading: Dropped from 97.31 to 69.66
@@ -26,15 +28,15 @@ There was a drastic decrease in the percent of Thomas High School students passi
   
 ![SchoolSummary](https://user-images.githubusercontent.com/60076980/150691140-83718d8d-239d-4c22-abba-6fcb094ab381.png)
 
-3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+**3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-4. **How does replacing the ninth-grade scores affect the math and reading scores by grade?**
+**4. **How does replacing the ninth-grade scores affect the math and reading scores by grade?**
 
-5. **How does replacing the ninth-grade scores affect the scores by school spending?**
+**5. **How does replacing the ninth-grade scores affect the scores by school spending?**
 
-6. **How does replacing the ninth-grade scores affect the scores by school size?**
+**6. **How does replacing the ninth-grade scores affect the scores by school size?**
 
-7. **How does replacing the ninth-grade scores affect the scores by school type?**
+**7. **How does replacing the ninth-grade scores affect the scores by school type?**
 
 
 
