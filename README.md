@@ -28,9 +28,17 @@ There was a drastic decrease in the percent of Thomas High School students passi
   
 ![SchoolSummary](https://user-images.githubusercontent.com/60076980/150691140-83718d8d-239d-4c22-abba-6fcb094ab381.png)
 
-**3. **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+**3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
-**4. **How does replacing the ninth-grade scores affect the math and reading scores by grade?**
+**4. How does replacing the ninth-grade scores affect the math and reading scores by grade?**
+
+Only the Thomas High School's ninth-graders scores were affected.
+
+  - The ninth-grade math scores for Thomas High School changed from 83.6 to nan
+  - The ninth-grade reading scores for Thomas High School changed from 83.7 to nan
+
+![MathScoresBeforeAndAfter](https://user-images.githubusercontent.com/60076980/150696185-f8d2cbb4-afed-47a9-9938-ebf5d0850416.png)
+![ReadingScoresBeforeAndAfter](https://user-images.githubusercontent.com/60076980/150696188-b637736c-fb79-497c-a9d2-774e72c49715.png)
 
 **5. **How does replacing the ninth-grade scores affect the scores by school spending?**
 
