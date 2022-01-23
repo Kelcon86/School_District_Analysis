@@ -62,4 +62,10 @@ District schools were unaffected by the change. Charter schools saw a very sligh
 ![SchoolType](https://user-images.githubusercontent.com/60076980/150697221-2c5542c6-2101-462d-a7d5-3fbcf594da23.png)
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+I believe these are the four biggest changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+
+1. Based on the % Overall Passing, Thomas High Schools ranking dropped from 2nd to 8th out of the 15 schools evaluated.
+2. Thomas High School % Overall Passing dropped from 90.95 to 65.08.
+3. Thomas High School % Passing Math dropped from 93.27 to 66.91.
+4. Thomas High School % Passing Reading dropped from 97.31 to 69.66
+
