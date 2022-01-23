@@ -4,13 +4,13 @@
 
 ## Results
 
-![StudentDataNaN](https://user-images.githubusercontent.com/60076980/150690903-d981e647-f562-43df-a626-10534b09359c.png)
+![StudentDataNaN](https://user-images.githubusercontent.com/60076980/150691125-823f2baf-5f6b-45f6-b91b-436f6e53b741.png)
 
 
-![DistrictSummary](https://user-images.githubusercontent.com/60076980/150690889-1818ca9f-55a0-47e6-9bf1-d64b2c1d8b71.png)
+![DistrictSummary](https://user-images.githubusercontent.com/60076980/150691135-370a8fee-08a6-4736-a8f6-d6bf4b15954b.png)
 
 
-![SchoolSummary](https://user-images.githubusercontent.com/60076980/150690893-d55f4756-1415-44ba-ac3f-a0284f5ec967.png)
+![SchoolSummary](https://user-images.githubusercontent.com/60076980/150691140-83718d8d-239d-4c22-abba-6fcb094ab381.png)
 
 
 ## Summary
