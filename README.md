@@ -45,6 +45,9 @@ Only the Thomas High School's ninth-graders scores were affected.
 
 **5. How does replacing the ninth-grade scores affect the scores by school spending?**
 
+The scores by school spending only saw a very small change in the $630-644 range. All of the other spending ranges were unaffected.
+![SpendingRangesPerStudent](https://user-images.githubusercontent.com/60076980/150696843-c8af14f3-856e-4efe-8306-a5433915239c.png)
+
 **6. How does replacing the ninth-grade scores affect the scores by school size?**
 
 **7. How does replacing the ninth-grade scores affect the scores by school type?**
